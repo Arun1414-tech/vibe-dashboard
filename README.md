@@ -23,7 +23,7 @@ A mini full-stack assignment built to demonstrate clean backend architecture and
 
 ## 📁 Project Structure
 
-vibe-dashboard/
+- vibe-dashboard/
 ├── backend/ → Spring Boot REST API
 ├── frontend/ → Next.js + Tailwind UI
 └── README.md → Project documentation
@@ -34,8 +34,8 @@ vibe-dashboard/
 
 ### 1️⃣ Run Backend (Spring Boot)
 
-cd backend
-./mvnw spring-boot:run
+- cd backend
+- ./mvnw spring-boot:run
 
 Backend runs on:
 
@@ -43,9 +43,9 @@ http://localhost:8080
 
 ### 2️⃣ Run Frontend (Next.js)
 
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
 Frontend runs on:
 
