@@ -23,11 +23,10 @@ A mini full-stack assignment built to demonstrate clean backend architecture and
 
 ## 📁 Project Structure
 
-- vibe-dashboard/
-├── backend/ → Spring Boot REST API
-├── frontend/ → Next.js + Tailwind UI
-└── README.md → Project documentation
-
+vibe-dashboard/
+├── backend/    # Spring Boot REST API
+├── frontend/   # Next.js + Tailwind UI
+└── README.md   # Project documentation
 ---
 
 ## ▶️ Running the Project Locally
